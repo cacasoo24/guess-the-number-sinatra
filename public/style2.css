@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans');
+@import url('https://fonts.googleapis.com/css?family=Wendy+One');
+
+body {
+  background-color: lightgoldenrodyellow;
+  background-image:url("img/light-bg1.png");
+}
+
+h1 {
+    font-size: 3em;
+    font-family:"PT+Sans", cursive;
+    color: darkkhaki;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: 1.2em;
+    color: darkolivegreen;
+    margin: 2em;
+}
+
+.start {
+  display:block;
+  background-color: blueviolet;
+  color: white;
+  font-size: 2em;
+  font-family:"Wendy+One", cursive;
+  text-align: center;
+  width: 4em;
+  height: 1.5em;
+  margin-left: auto;
+  margin-right:auto;
+  border-radius: 30%;
+  line-height:1.5em;
+  text-decoration: none;
+}
+
+.title1 {
+  color: darkkhaki
+  font-size: 1.5em;
+  text-align: center;
+}
